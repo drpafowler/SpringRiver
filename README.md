@@ -1,20 +1,11 @@
 # Project Title
 
 ## My package
-Description of your package.
+This repository is my exploration of predicting streamflows from data obtained from the USGS
 
 ## Overview
-Overview of your project.
+The data is in the CSV files and named by the river from which they were obtained.  The data has been converted from the USGS's tab deliniated format to CSV and the column heading were reneamed to more descriptive names.
 
 ## Author(s)
 List of authors.
 
-## Usage
-Instructions on how to use your project.
-```python3
->>> import mypackage
->>> mypackage.do_stuff()
-```
-            
-## Installation
-Instructions on how to install your project.
