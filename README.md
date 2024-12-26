@@ -1,7 +1,7 @@
 # Project Title
 
 ## My package
-This repository is my exploration of predicting streamflows from data obtained from the USGS
+This repository is my exploration of predicting springtime streamflows from data obtained from the USGS
 
 ## Goals
 The primary goal here is to investigate methods of predicting the discharge of a river.  I see there being two key components to this.  First, is the onset of the peak flow.  Second, is the magnitude of the peak flow.  
