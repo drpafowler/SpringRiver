@@ -5,5 +5,4 @@ __pycache__/
 *.pyd
 .venv/
 data/         
-images/
 deprecated/
